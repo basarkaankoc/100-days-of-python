@@ -37,9 +37,6 @@ if user_choice >= 0 and user_choice <= 2:
 
 
 
-
-
-
 if user_choice >= 3 or user_choice < 0:
     print("You typed an invalid. You lose!")
 elif user_choice == 0 and computer_choice == 2:
