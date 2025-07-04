@@ -18,9 +18,12 @@ The computer will also make a random choice, and the game will display who wins.
 ---
 
 ## 💡 Sample Run
+
+```
 What do you choose? Type 0 for Rock, 1 for Paper or 2 for Scissors.
 1
-   _______
+
+    _______
 ---'   ____)____
           ______)
           _______)
@@ -37,8 +40,8 @@ Computer chose:
 ---.__________)
 
 It's a Draw
+```
 
----
 
 ## 📚 Concepts Used
 
